@@ -27,8 +27,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:JavohirM/bot_teg.gitcls</developerConnection>
-      <tag>petclinic-1.1</tag>
+        <developerConnection>scm:git:git@github.com:JavohirM/bot_teg.git</developerConnection>
   </scm>
 
 
